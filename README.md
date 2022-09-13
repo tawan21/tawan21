@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, this is Tawan 👋
 
-<!--
-**tawan21/tawan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m working with Vue & Laravel
+- 🌱 I’m learning Flutter
+- 📫 How to reach me: [tawanjsingh@gmail.com](mailto:tawanjsingh@gmail.com)
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,dart,express,firebase,gcp,git,github,heroku,html,java,js,laravel,mongodb,mysql,nextjs,nodejs,php,py,react,redux,sqlite,tailwind,ts,vercel,vscode,vue&theme=light&perline=8)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [LeetCode](https://leetcode.com/tawan21)
+![](https://leetcard.jacoblin.cool/tawan21?ext=contest)
+
+### Stats
+[![Tawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawan21)](https://github.com/anuraghazra/github-readme-stats)
