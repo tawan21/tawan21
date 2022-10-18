@@ -11,4 +11,4 @@
 ![](https://leetcard.jacoblin.cool/tawan21?ext=contest)
 
 ### Stats
-[![Tawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawan21&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawan21)](https://github.com/anuraghazra/github-readme-stats)
