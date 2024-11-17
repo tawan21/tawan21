@@ -1,14 +1,10 @@
 ## Hi there, this is Tawan!
 
-- I'm currently working with Svelte & Firebase
-- How to reach me: [tawanjsingh@gmail.com](mailto:tawanjsingh@gmail.com)
-- Pronouns: he/him
+- Presently working @ Airbus (India) ✈️
+- How to reach me: [tawanjotsingh92@gmail.com](mailto:tawanjsingh@gmail.com)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,dart,express,firebase,gcp,git,github,gitlab,heroku,html,java,js,laravel,materialui,mongodb,mysql,nextjs,nodejs,php,py,react,redux,sqlite,svelte,tailwind,ts,vercel,vscode,vue&theme=light&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,firebase,gcp,git,github,gitlab,heroku,html,java,jenkins,js,laravel,materialui,mongodb,mysql,nextjs,nodejs,php,py,react,redux,spring,sqlite,svelte,tailwind,ts,vercel,vue&theme=light&perline=11)](https://skillicons.dev)
 
 ### [LeetCode](https://leetcode.com/tawan21)
 ![](https://leetcard.jacoblin.cool/tawan21?ext=contest)
-
-### Stats
-[![Tawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawan21)](https://github.com/anuraghazra/github-readme-stats)
